@@ -1,0 +1,13 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 800px;
+    
+}
+
+* {
+    margin: 10;
+    padding: 5;
+    box-sizing: content-box;
+}
